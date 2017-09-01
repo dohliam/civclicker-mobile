@@ -18,6 +18,10 @@ The original CivClicker has the following succinct advice about getting started:
 >
 > A: Workers eat food. Do you have enough spare?
 
+## Demo
+
+You can play Civclicker Mobile on your own device by cloning or downloading this repository and opening `index.html` in your browser, or you can try the online demo [here](https://dohliam.github.io/civclicker-mobile/).
+
 ## Settings
 
 * Manual Save - _Save your current stats_
